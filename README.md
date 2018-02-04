@@ -1,7 +1,7 @@
 ## How to build:
 
-You need to have the trapcoin repository in the same folder. (https://github.com/trapcoin-dev/Trapcoin/)
+Clone the Trapcoin repository (https://github.com/trapcoin-dev/Trapcoin/) and put in a folder called "trapcoin" to the gui folder.
 
 Then you can build it with cmake.
 
-QT5 is required.
+You will also need the binaries needed for Trapcoin & QT5 which can be found here: https://www.qt.io/
