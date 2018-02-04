@@ -4,4 +4,6 @@ Clone the Trapcoin repository (https://github.com/trapcoin-dev/Trapcoin/) and pu
 
 Then you can build it with cmake.
 
-You will also need the binaries needed for Trapcoin & QT5 which can be found here: https://www.qt.io/
+You will also need the binaries needed for Trapcoin & QT5 which can be found here:
+
+* https://www.qt.io/
