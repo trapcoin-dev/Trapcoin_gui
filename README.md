@@ -9,3 +9,6 @@ Then you can build the GUI with cmake:
 You will also need QT5 which can be found here:
 
 * https://www.qt.io/
+
+
+![alt text](https://github.com/trapcoin-dev/Trapcoin_gui/blob/master/src/images/trapcoin_gui.png "Trapcoin GUI Wallet")
