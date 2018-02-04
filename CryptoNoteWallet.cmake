@@ -1,0 +1,4 @@
+
+set(CN_PROJECT_NAME "trapcoin")
+set(CN_CURRENCY_DISPLAY_NAME "Trapcoin")
+set(CN_CURRENCY_TICKER "TRAPS")

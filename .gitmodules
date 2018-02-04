@@ -1,0 +1,3 @@
+[submodule "trapcoin"]
+	path = trapcoin
+	url = https://github.com/trapcoin-dev/Trapcoin.git
