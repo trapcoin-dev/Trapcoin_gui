@@ -1,6 +1,6 @@
 ## How to build:
 
-Clone the Trapcoin repository (https://github.com/trapcoin-dev/Trapcoin/) and put in a folder called "trapcoin".
+Clone the Trapcoin repository (https://github.com/trapcoin-dev/Trapcoin/) and put it in a folder called "trapcoin".
 
 Then you can build the GUI with cmake:
 
